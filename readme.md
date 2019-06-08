@@ -2,4 +2,5 @@
 
 Esta saga de libros cuentan la historia de un hacker excepcional.
 
-**Gabriel Maillo**, Git fan.
+
+**Gabriel Maillo**, Git fan & Larry Plotter fan.
